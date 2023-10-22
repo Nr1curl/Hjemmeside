@@ -1,0 +1,68 @@
+
+body {
+    background-color: #012634;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+
+    color:gray;
+    
+    
+    
+}
+p {
+    text-align: center;
+    color: rgb(104, 145, 235);
+    font-weight: bolder;
+}
+.sitat {
+    font-weight: bold;
+    font-style: oblique;
+    font-size:large;
+
+}
+blockquote {
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 40px;
+    color: cadetblue;
+    font-variation-settings: "";
+}
+h5 {
+    text-align: center;
+    color: grey;
+
+}
+.bilde {
+    width: 200px;
+    border-radius: 50%;
+    border-color: gray;
+    border-width: 4px;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+.overskrift {
+    text-align: center;
+    font-size: larger;
+
+    color: grey;
+
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+
+}
+li {
+    align-items: first baseline;
+    text-align:center;
+    color: grey;
+
+}
